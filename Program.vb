@@ -19,5 +19,6 @@ Module Program
         Console.WriteLine("")
         Console.WriteLine("Your Generated Password:")
         Console.WriteLine(sb.ToString())
+        Console.ReadKey()
     End Sub
 End Module

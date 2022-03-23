@@ -4,7 +4,6 @@
     This is an random VB Password Generator.
     <br />
 </h1>
-<br/><br/>
 
 <!-- License -->
 ## License

@@ -6,14 +6,6 @@
 </h1>
 <br/><br/>
 
-<!-- Preview -->
-<p align="center">
-  <a href="">
-    <img src="./assets/Main.png" width="100%"/>
-  </a>
-</p>
-<br/>
-
 <!-- License -->
 ## License
 
